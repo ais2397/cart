@@ -1,0 +1,19 @@
+# cart
+<!DOCTYPE>
+<html>
+<head></head>
+<body>
+<form method=POST action="signup.php">
+First Name:
+<input type="text" name="FirstName" value="enter">
+<br>
+Last name:
+<input type="text" name="LastName"><br>
+E-mail id:<input type="text" name="email"><br>
+Password:<input type="password" name="pasword"><br>
+Confirm Password:<input type="password" name="confirmpasword">
+<br><br>
+<button>Submit</button> 
+</form>
+</body>
+</html>
